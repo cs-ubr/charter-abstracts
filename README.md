@@ -1,5 +1,5 @@
 # charter-abstracts
-## eneral description
+## general description
 This project contains some examples how charter regesta can be linked together in [neo4j graph database](https://neo4j.com/download-center/#community) using [CIDOC-CRM ontology 6.2.1](http://www.cidoc-crm.org/sites/default/files/cidoc_crm_v6.2.1-2018April.rdfs). Part of the example charters are refering to 
 the St. Katharinenspital in Regensburg, Germany, and can be retrieved from [Monasterium](https://www.monasterium.net/mom/DE-AKR/Urkunden/fond).
 
