@@ -1,0 +1,10 @@
+{
+    "neo4j":{
+        "host":"localhost",
+        "user":"neo4j",
+        "passwd":"passwd"
+    },
+    "cidoc-crm": {
+        "schema-file":"cidoc_crm_v6.2.1-2018April.rdfs"
+    }
+}
